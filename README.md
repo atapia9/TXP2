@@ -96,7 +96,9 @@ Estas métricas permiten evaluar no solo la precisión general, sino también el
 
 ## Autor
 Proyecto desarrollado con fines académicos y analíticos, aplicando buenas prácticas de ciencia de datos, análisis de negocio y modelado predictivo.
+
 Por Jesus Armando Tapia Gallegos MTDE
+
 ---
 
 ## Licencia
