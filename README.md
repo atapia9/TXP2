@@ -77,9 +77,13 @@ Estas métricas permiten evaluar no solo la precisión general, sino también el
 ---
 
 ## Estructura del Proyecto
+
 ├── JATG_telecomx_P2.ipynb # Notebook principal del análisis
+
 ├── README.md # Documentación del proyecto
-└── data/ # (Opcional) Archivos de datos
+
+└── data/telecomx_clean.csv
+
 ---
 
 ## Próximos Pasos (Mejoras Potenciales)
